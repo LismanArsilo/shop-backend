@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6692623f7317efa89ae96595"
+  },
+  "role_id": {
+    "$oid": "669126a811f5652b5bb3a4e9"
+  },
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$00Ost188Sk4p0MEe7U9huOk5wiNKpuczqNFFYRKW3qwUmP0lmEB7y",
+  "createdAt": {
+    "$date": "2024-07-13T11:17:19.912Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T11:17:19.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692635a66c81c64b0ba6142"
+  },
+  "role_id": {
+    "$oid": "6691713abc52f716e84bcb34"
+  },
+  "username": "cahaya abadi makmur",
+  "email": "cahaya@gmail.com",
+  "password": "$2b$10$ijRnE8CHuWG5zU2589nOfuUc5l87ex/YYlv7WKE.U5Q16clvK4BYy",
+  "createdAt": {
+    "$date": "2024-07-13T11:22:02.918Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T11:22:02.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692639066c81c64b0ba6144"
+  },
+  "role_id": {
+    "$oid": "669245833f015f3c213a5ffb"
+  },
+  "username": "lisman arsilo",
+  "email": "lisman@gmail.com",
+  "password": "$2b$10$4IxOlcor4MYDe7lZ6g5oDua968PmFhXcKM6s8z.43r09rFMeoER36",
+  "createdAt": {
+    "$date": "2024-07-13T11:22:56.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T11:22:56.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692c042771890ebba46ccc1"
+  },
+  "role_id": {
+    "$oid": "6691713abc52f716e84bcb34"
+  },
+  "username": "cipta sakti permai",
+  "email": "cipta@gmail.com",
+  "password": "$2b$10$5TMKj3.rq6USDHuvnnjMQe6bmXveLZPX5iyRBqNfELE7z4UEOGu1S",
+  "createdAt": {
+    "$date": "2024-07-13T17:58:26.730Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T17:58:26.730Z"
+  },
+  "__v": 0
+}]

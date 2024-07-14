@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "6692ec6547ec16329be09778"
+  },
+  "user_id": {
+    "$oid": "6691713abc52f716e84bcb34"
+  },
+  "name": "Sahabat Elektronik",
+  "category": "Elektronik",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.819454,
+      -6.403022
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-07-13T21:06:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T21:06:45.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692ec6d47ec16329be0977a"
+  },
+  "user_id": {
+    "$oid": "6691713abc52f716e84bcb34"
+  },
+  "name": "Sahabat Elektronik 1",
+  "category": "Elektronik",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.819454,
+      -6.403022
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-07-13T21:06:53.960Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T21:06:53.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692ec7347ec16329be0977c"
+  },
+  "user_id": {
+    "$oid": "6691713abc52f716e84bcb34"
+  },
+  "name": "Sahabat Elektronik 2",
+  "category": "Elektronik",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.819454,
+      -6.403022
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-07-13T21:06:59.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T21:06:59.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692ec7747ec16329be0977e"
+  },
+  "user_id": {
+    "$oid": "6691713abc52f716e84bcb34"
+  },
+  "name": "Sahabat Elektronik 3",
+  "category": "Elektronik",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.819454,
+      -6.403022
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-07-13T21:07:03.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T21:07:03.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692ecee47ec16329be09780"
+  },
+  "user_id": {
+    "$oid": "6692c042771890ebba46ccc1"
+  },
+  "name": "Cahaya Cipta Elektrik",
+  "category": "Elektronik",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.816369,
+      -6.417568
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-07-13T21:09:02.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T21:09:02.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692ecf447ec16329be09782"
+  },
+  "user_id": {
+    "$oid": "6692c042771890ebba46ccc1"
+  },
+  "name": "Cahaya Cipta Elektrik 1",
+  "category": "Elektronik",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.816369,
+      -6.417568
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-07-13T21:09:08.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T21:09:08.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692ecf947ec16329be09784"
+  },
+  "user_id": {
+    "$oid": "6692c042771890ebba46ccc1"
+  },
+  "name": "Cahaya Cipta Elektrik 3",
+  "category": "Elektronik",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.816369,
+      -6.417568
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-07-13T21:09:13.632Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T21:09:13.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692ecfe47ec16329be09786"
+  },
+  "user_id": {
+    "$oid": "6692c042771890ebba46ccc1"
+  },
+  "name": "Cahaya Cipta Elektrik 4",
+  "category": "Elektronik",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.838152,
+      -6.428115
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-07-13T21:09:18.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T21:09:18.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692ed6e47ec16329be0978a"
+  },
+  "user_id": {
+    "$oid": "6691713abc52f716e84bcb34"
+  },
+  "name": "Sahabat Elektronik 4",
+  "category": "Elektronik",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.837802,
+      -6.42767
+    ]
+  },
+  "createdAt": {
+    "$date": "2024-07-13T21:11:10.632Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T21:11:10.632Z"
+  },
+  "__v": 0
+}]
